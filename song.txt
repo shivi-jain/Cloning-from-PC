@@ -2,3 +2,5 @@ step left
 step right
 jump up and down
 do the rainbow dance
+This is a rainbow song
+Hahahahhahahhahahaha
